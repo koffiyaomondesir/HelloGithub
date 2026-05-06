@@ -10,3 +10,4 @@ Projet Python pour apprendre **Git & GitHub** :
 git clone https://github.com/<ton-compte>/HelloGithub.git
 cd HelloGitHub
 pip install -r requirements.txt
+## Tests automatiques avec GitHub Actions
